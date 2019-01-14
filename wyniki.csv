@@ -1,0 +1,151 @@
+liczba kolumn wedlug ktorych grupujemy,ilosc danych,metoda,czas[ms]
+1,10000,jednowątkowa,180
+1,10000,jednowątkowa,216
+1,10000,jednowątkowa,192
+1,10000,jednowątkowa,176
+1,10000,jednowątkowa,182
+1,10000,jednowątkowa,160
+1,10000,jednowątkowa,168
+1,10000,jednowątkowa,173
+1,10000,jednowątkowa,163
+1,10000,jednowątkowa,170
+1,10000,wielowątkowa,119
+1,10000,wielowątkowa,96
+1,10000,wielowątkowa,108
+1,10000,wielowątkowa,77
+1,10000,wielowątkowa,93
+1,10000,wielowątkowa,98
+1,10000,wielowątkowa,89
+1,10000,wielowątkowa,73
+1,10000,wielowątkowa,91
+1,10000,wielowątkowa,93
+1,10000,baza danych,38
+1,10000,baza danych,18
+1,10000,baza danych,17
+1,10000,baza danych,32
+1,10000,baza danych,18
+1,10000,baza danych,17
+1,10000,baza danych,17
+1,10000,baza danych,31
+1,10000,baza danych,20
+1,10000,baza danych,28
+2,10000,jednowątkowa,210
+2,10000,jednowątkowa,180
+2,10000,jednowątkowa,179
+2,10000,jednowątkowa,184
+2,10000,jednowątkowa,198
+2,10000,jednowątkowa,180
+2,10000,jednowątkowa,174
+2,10000,jednowątkowa,209
+2,10000,jednowątkowa,174
+2,10000,jednowątkowa,178
+2,10000,wielowątkowa,147
+2,10000,wielowątkowa,132
+2,10000,wielowątkowa,152
+2,10000,wielowątkowa,132
+2,10000,wielowątkowa,130
+2,10000,wielowątkowa,145
+2,10000,wielowątkowa,133
+2,10000,wielowątkowa,130
+2,10000,wielowątkowa,120
+2,10000,wielowątkowa,129
+2,10000,baza danych,16
+2,10000,baza danych,17
+2,10000,baza danych,32
+2,10000,baza danych,16
+2,10000,baza danych,34
+2,10000,baza danych,16
+2,10000,baza danych,32
+2,10000,baza danych,23
+2,10000,baza danych,28
+2,10000,baza danych,17
+1,100000,jednowątkowa,564
+1,100000,jednowątkowa,575
+1,100000,jednowątkowa,527
+1,100000,jednowątkowa,554
+1,100000,jednowątkowa,493
+1,100000,jednowątkowa,505
+1,100000,jednowątkowa,535
+1,100000,jednowątkowa,584
+1,100000,jednowątkowa,560
+1,100000,jednowątkowa,585
+1,100000,wielowątkowa,428
+1,100000,wielowątkowa,451
+1,100000,wielowątkowa,463
+1,100000,wielowątkowa,437
+1,100000,wielowątkowa,404
+1,100000,wielowątkowa,422
+1,100000,wielowątkowa,421
+1,100000,wielowątkowa,451
+1,100000,wielowątkowa,374
+1,100000,wielowątkowa,368
+1,100000,baza danych,115
+1,100000,baza danych,164
+1,100000,baza danych,144
+1,100000,baza danych,122
+1,100000,baza danych,134
+1,100000,baza danych,105
+1,100000,baza danych,138
+1,100000,baza danych,171
+1,100000,baza danych,122
+1,100000,baza danych,111
+2,100000,jednowątkowa,672
+2,100000,jednowątkowa,667
+2,100000,jednowątkowa,631
+2,100000,jednowątkowa,667
+2,100000,jednowątkowa,576
+2,100000,jednowątkowa,614
+2,100000,jednowątkowa,697
+2,100000,jednowątkowa,672
+2,100000,jednowątkowa,668
+2,100000,jednowątkowa,663
+2,100000,wielowątkowa,583
+2,100000,wielowątkowa,534
+2,100000,wielowątkowa,524
+2,100000,wielowątkowa,447
+2,100000,wielowątkowa,458
+2,100000,wielowątkowa,483
+2,100000,wielowątkowa,520
+2,100000,wielowątkowa,577
+2,100000,wielowątkowa,493
+2,100000,wielowątkowa,536
+1,1000000,jednowątkowa,1845
+1,1000000,jednowątkowa,1780
+1,1000000,jednowątkowa,1626
+1,1000000,jednowątkowa,1821
+1,1000000,jednowątkowa,1712
+1,1000000,jednowątkowa,1637
+1,1000000,jednowątkowa,1899
+1,1000000,jednowątkowa,1700
+1,1000000,jednowątkowa,1759
+1,1000000,jednowątkowa,1878
+1,1000000,wielowątkowa,1269
+1,1000000,wielowątkowa,1201
+1,1000000,wielowątkowa,1277
+1,1000000,wielowątkowa,1201
+1,1000000,wielowątkowa,1260
+1,1000000,wielowątkowa,1214
+1,1000000,wielowątkowa,1469
+1,1000000,wielowątkowa,1213
+1,1000000,wielowątkowa,1211
+1,1000000,wielowątkowa,1359
+2,1000000,jednowątkowa,2435
+2,1000000,jednowątkowa,2533
+2,1000000,jednowątkowa,2527
+2,1000000,jednowątkowa,2487
+2,1000000,jednowątkowa,2383
+2,1000000,jednowątkowa,2422
+2,1000000,jednowątkowa,2529
+2,1000000,jednowątkowa,2410
+2,1000000,jednowątkowa,2548
+2,1000000,jednowątkowa,2404
+2,1000000,wielowątkowa,1888
+2,1000000,wielowątkowa,1969
+2,1000000,wielowątkowa,2206
+2,1000000,wielowątkowa,1868
+2,1000000,wielowątkowa,1998
+2,1000000,wielowątkowa,2184
+2,1000000,wielowątkowa,2038
+2,1000000,wielowątkowa,2268
+2,1000000,wielowątkowa,2290
+2,1000000,wielowątkowa,2241
