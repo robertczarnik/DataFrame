@@ -7,3 +7,4 @@ DataFrameMultiThreads - wielowatkowa klasa do obsługi ramek danych(wielowštkow
 
 pliki:
 ZestawienieWynikow.xlsx - porówananie czasów grupowania dla programu jednowatkowego, wielowatkowego i bazy danych.
+wyniki.csv - dane do zestawienia
